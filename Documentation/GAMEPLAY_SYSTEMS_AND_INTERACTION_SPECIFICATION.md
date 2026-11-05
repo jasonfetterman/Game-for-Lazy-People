@@ -1,0 +1,4 @@
+﻿# THE GAME FOR LAZY PEOPLE
+# GAMEPLAY SYSTEMS AND INTERACTION SPECIFICATION
+## Version 1.0 — Production Gameplay Definition
+
